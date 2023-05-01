@@ -28,6 +28,13 @@ Em meus projetos, busco sempre aplicar as tecnologias mais adequadas para cada c
 
 - Projeto StarWars Datatable com Context API e Hooks:  Desenvolvi uma aplicação front-end utilizando recursos avançados de React - Context API e Hooks, a aplicação consulta uma API para recuperar dados dos planetas do universo de Star Wars. Usei os dados retornados pela API para criar uma tabela com alguns filtros. Os planetas podem ser filtrados por suas características, como população, período orbital, diâmetro e outras.
 
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=DouglasDainese&repo=github-readme-stats&count_private=true&show_icons=true&theme=vision-friendly-dark&include_all_commits=true" alt="DouglasDainese_github_stats" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasDainese&theme=vision-friendly-dark&layout=compact" alt="DouglasDainese_most_used_languages" />
+</p>
+
 ## Contato
 
 Caso queira entrar em contato comigo para falar sobre algum projeto ou proposta de trabalho, sinta-se à vontade para enviar um e-mail para meu endereço de contato: [douglas_dainese@hotmail.com](mailto:douglas_dainese@hotmail.com).
