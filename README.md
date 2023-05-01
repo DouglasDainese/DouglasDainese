@@ -34,7 +34,8 @@ Em meus projetos, busco sempre aplicar as tecnologias mais adequadas para cada c
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasDainese&theme=vision-friendly-dark&layout=compact" alt="DouglasDainese_most_used_languages" />
 </p>
-
+<br>
+<br>
 ## Contato
 
 Caso queira entrar em contato comigo para falar sobre algum projeto ou proposta de trabalho, sinta-se à vontade para enviar um e-mail para meu endereço de contato: [douglas_dainese@hotmail.com](mailto:douglas_dainese@hotmail.com).
