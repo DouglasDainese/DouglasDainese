@@ -36,6 +36,7 @@ Em meus projetos, busco sempre aplicar as tecnologias mais adequadas para cada c
 </p>
 <br>
 <br>
+
 ## Contato
 
 Caso queira entrar em contato comigo para falar sobre algum projeto ou proposta de trabalho, sinta-se à vontade para enviar um e-mail para meu endereço de contato: [douglas_dainese@hotmail.com](mailto:douglas_dainese@hotmail.com).
