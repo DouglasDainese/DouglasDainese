@@ -1,6 +1,8 @@
 # DouglasDainese
 
-Bem-vindo ao meu GitHub! Meu nome é Douglas, sou Desenvolvedor fullstack em formação, sou curioso por natureza e apaixonado por tecnologia. Atualmente, estou concluindo o módulo de Back-end da Trybe e já utilizei diversas tecnologias em meus projetos.
+Bem-vindo ao meu GitHub! 
+
+Oi eu sou o Douglas, sou Desenvolvedor fullstack em formação, sou curioso por natureza e apaixonado por tecnologia. Atualmente, estou concluindo o módulo de Back-end da Trybe e já utilizei diversas tecnologias em meus projetos.
 
 ## Tecnologias
 
