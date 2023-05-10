@@ -22,7 +22,7 @@ Entre as tecnologias que já utilizei, destacam-se:
 
 Em meus projetos, busco sempre aplicar as tecnologias mais adequadas para cada caso, com o objetivo de entregar soluções eficientes e de alta qualidade. Alguns dos meus projetos mais recentes incluem:
 
-- Projeto BlogsAPI: uma API e um banco de dados para a produção de conteúdo para um blog.
+- Projeto BlogsAPI: uma API RESTful e um banco de dados relacional, para a produção de conteúdo de um blog, utilizei uma biblioteca ORM para realizar a conexão com o banco de dados.
 
 - Projeto App de Receitas: O projeto em grupo que consistiu em desenvolver um sistema que permite visualizar, buscar, filtrar, favoritar, compartilhar e acompanhar o processo de preparação de receitas e drinks. A base de dados serão 2 APIs distintas, uma para comidas e outra para bebidas.
 
