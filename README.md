@@ -1,44 +1,43 @@
-# DouglasDainese
+[<img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">](https://github.com/DouglasDainese)
+[<img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">](https://www.linkedin.com/in/douglasdainese/)
+<br />
+<br />
 
 Bem-vindo ao meu GitHub! 
 
-Oi! Eu sou o Douglas, sou Desenvolvedor Fullstack em formação, curioso por natureza e apaixonado por tecnologia. Atualmente, estou concluindo o módulo de Back-end da Trybe e já utilizei diversas tecnologias em meus projetos.
+Oi, me chamo **Douglas**, sou Desenvolvedor fullstack em formação, sou curioso por natureza e apaixonado por tecnologia. Atualmente, sou empreendedor de e-commerce e estou concluindo o módulo de Cienca da computação da Trybe e já utilizei diversas tecnologias em meus projetos.
 
+**Meus interesses pessoais:**
+
+- 📚 Estou estudando o modulo de **Ciência da Computação** na Trybe;
+- 🚀 Estou participando do Santander Bootcamp 2023 - Fullstack Java+Angular; 
+- 🎨 Meus hobbies são estudar, fazer bonsais e astronomia, amo olhar o céu 🌌;
+- 💬 Fique a vontade para entrar em contato comigo, amo ajudar pessoas;
+- 📫 Por favor, envie um email para **douglas_dainese@hotmail.com** para me encontrar.
+
+<br />
+<br />
 ## Tecnologias
 
-Entre as tecnologias que já utilizei, destacam-se:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>  
+</p>
 
-- Node.js: uma plataforma de desenvolvimento de aplicações em JavaScript.
-- SQL: uma linguagem de banco de dados utilizada para gerenciar dados em sistemas relacionais.
-- Docker: uma plataforma para desenvolvimento, empacotamento e execução de aplicativos em contêineres.
-- Sequelize: uma biblioteca ORM para Node.js que permite trabalhar com bancos de dados relacionais.
-- React: uma biblioteca JavaScript para construção de interfaces de usuário.
-- React Hooks: uma nova adição ao React 16.8 que permite utilizar recursos do React sem escrever classes.
-- Redux: uma biblioteca JavaScript para gerenciamento de estado de aplicações.
-- Jest: um framework de testes para JavaScript.
-- HTML e CSS: as linguagens fundamentais para desenvolvimento de páginas web.
-
-## Projetos
-
-Em meus projetos, busco sempre aplicar as tecnologias mais adequadas para cada caso, com o objetivo de entregar soluções eficientes e de alta qualidade. Alguns dos meus projetos mais recentes incluem:
-
-- Projeto BlogsAPI: uma API RESTful e um banco de dados relacional, para a produção de conteúdo de um blog, utilizei uma biblioteca ORM para realizar a comunicação com o banco de dados.
-
-- Projeto App de Receitas: O projeto em grupo que consistiu em desenvolver um sistema que permite visualizar, buscar, filtrar, favoritar, compartilhar e acompanhar o processo de preparação de receitas e drinks. A base de dados serão 2 APIs distintas, uma para comidas e outra para bebidas.
-
-- Projeto StarWars Datatable com Context API e Hooks:  Desenvolvi uma aplicação front-end utilizando recursos avançados de React - Context API e Hooks, a aplicação consulta uma API para recuperar dados dos planetas do universo de Star Wars. Usei os dados retornados pela API para criar uma tabela com alguns filtros. Os planetas podem ser filtrados por suas características, como população, período orbital, diâmetro e outras.
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=DouglasDainese&repo=github-readme-stats&count_private=true&show_icons=true&theme=vision-friendly-dark&include_all_commits=true" alt="DouglasDainese_github_stats" />
+  <img align="left" height="165em" src="https://github-readme-stats.vercel.app/api?username=DouglasDainese&repo=github-readme-stats&count_private=true&show_icons=true&theme=vision-friendly-dark&include_all_commits=true" alt="DouglasDainese_github_stats" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasDainese&theme=vision-friendly-dark&layout=compact" alt="DouglasDainese_most_used_languages" />
+  <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasDainese&theme=vision-friendly-dark&layout=compact" alt="DouglasDainese_most_used_languages" />
 </p>
 <br>
 <br>
-
-## Contato
-
-Caso queira entrar em contato comigo para falar sobre algum projeto ou proposta de trabalho, sinta-se à vontade para enviar um e-mail para meu endereço de contato: [douglas_dainese@hotmail.com](mailto:douglas_dainese@hotmail.com).
-
-Obrigado por visitar meu github!
